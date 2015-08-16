@@ -1,2 +1,2 @@
-# homepage
-Our current homepage project
+# Wordpress Freifunk Template
+Unsere Freifunk Community ist aktuell noch im Aufbau, genau wie dieses Projekt.
