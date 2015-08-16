@@ -1,0 +1,19 @@
+/*
+Theme Name: Freifunk Theme
+Theme URI: https://github.com/FreifunkBRB/Wordpress-Theme
+Author: Freifunk-BRB
+Author URI: http://freifunk-brb.de
+Description: Wordpress Template für Freifunk Communities. Enthält alles, was man für den Start braucht.
+Version: 1.0
+License: The MIT License (MIT)
+License URI: https://github.com/FreifunkBRB/Wordpress-Theme/blob/master/LICENSE
+Tags: one-column, right-sidebar, flexible-width, custom-header, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: ff
+
+This theme, is licensed under the MIT License.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Do not put any CSS definitions in here and use the less/custom folder for your style changes.
+*/
+
+@import url("css/style.css");
