@@ -1,2 +1,2 @@
-# homepage
-Our current homepage project
+# Wordpress Template
+Wordpress Template für die Freifunk Homepage
