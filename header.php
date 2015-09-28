@@ -28,7 +28,9 @@
 	<div class="container">
 
 		<div id="header">
-			<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/image/logo.png" />
+			<div class="site-logo">
+				<img src="<?php echo esc_url( get_template_directory_uri() ); ?>/image/logo.png" />
+			</div>
 		</div>
 
 		<nav class="navbar navbar-inverse">
