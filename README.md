@@ -1,3 +1,3 @@
 # Wordpress Freifunk Theme
-Unsere Freifunk Community ist aktuell noch im Aufbau, genau wie dieses Projekt.
 
+Wordpress Theme für die Webseite freifunk-brb.de. Kann gerne von anderen Communities verwendet werden, die Bilder müssen dann halt angepasst werden.
